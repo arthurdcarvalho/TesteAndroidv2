@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AltranTeste</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_user">User</string>
+    <string name="description_logo">logo</string>
+    <string name="label_btn_login">Login</string>
+    <string name="carregando">Carregando</string>
+</resources>
